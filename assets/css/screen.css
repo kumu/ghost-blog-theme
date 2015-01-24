@@ -1332,7 +1332,7 @@ h1.searching a:hover {
 	display: inline-block;
 	min-height: 300px;
 	text-align: center;
-	padding: 10px 30px 140px 30px;
+	padding: 50px 30px 140px 30px;
 }
 
 .page .lead {
@@ -1734,7 +1734,7 @@ input[type=submit]:hover,
 
 	.lead {
 		min-height: 400px;
-		padding: 40px 30px 170px 30px;
+		padding: 65px 30px 170px 30px;
 	}
 
 	.single-post .pagination .prev-post a,
