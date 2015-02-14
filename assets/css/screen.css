@@ -327,7 +327,7 @@ a.social.white.spotify {
 
 /* Uppercase */
 .blog-title, article h1, h2, h3,h4, h5, h6,.blog-tagline,.more-link,.meta,.pagination,.comment-reply-link,button,input[type=submit],#menu-control,.site-navigation .sitenav-posts,footer.footer {
-	text-transform: uppercase;
+	//text-transform: uppercase;
 }
 
 img {
@@ -1090,7 +1090,7 @@ footer.footer,
 .sitenav-main,
 body.mean-container .mean-nav {
 	font-weight: 900;
-	font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
 h1, h2, h3,
@@ -1375,6 +1375,11 @@ h1.searching a:hover {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
+}
+
+h3 {
+  color: rgba(0,0,0,0.4);
+  font-weight: 300;
 }
 
 .main-archive .format-status h3 {
@@ -1954,18 +1959,18 @@ input[type=submit]:hover,
 	}
 
 	h4 {
-		font-size: 28px;
-		font-size: 2.8rem;
-	}
-
-	h5 {
 		font-size: 24px;
 		font-size: 2.4rem;
 	}
 
-	h6 {
+	h5 {
 		font-size: 20px;
-		font-size: 2rem;
+		font-size: 2.0rem;
+	}
+
+	h6 {
+		font-size: 16px;
+		font-size: 1.6rem;
 	}
 
 	.one_sixth {
